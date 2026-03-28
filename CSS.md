@@ -1,5 +1,6 @@
 Can you reformat to md for me, 
 1. Universal Selector
+2. and
 
 * → selects all elements.
 
